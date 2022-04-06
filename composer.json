@@ -1,11 +1,12 @@
 {
+   
     "name": "mkyunuz/PaidbaQLib",
     "description": "PaidbaQ Library",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {
-            "mkyunuz\\PaidbaQLib\\": "src/"
-        }
+        "psr-4": { "mkyunuz\\PaidbaQLib\\": "src/"}
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "require": {}
 }
