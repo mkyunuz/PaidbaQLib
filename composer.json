@@ -1,0 +1,11 @@
+{
+    "name": "mkyunuz/PaidbaQLib",
+    "description": "PaidbaQ Library",
+    "autoload": {
+        "psr-4": {
+            "mkyunuz\\PaidbaQLib\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
